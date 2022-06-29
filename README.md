@@ -8,3 +8,5 @@ I’m a Full-stuck Developer located in Morocco Tangier . I have a serious passi
 Well-organised person, problem solver, independent employee with high attention to detail. Fan of Mountain Biking, outdoor activities, TV series and Arabic literature. A family person,
 <br><br>
 Interested in the entire frontend and back-end spectrum and working on ambitious projects with positive people.
+<br><br><br><br>
+<img src="https://raw.githubusercontent.com/zakariaelharrak/Portfolio/main/banner.PNG"> 
