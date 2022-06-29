@@ -1,5 +1,5 @@
 <H1>Zakariae El Harrak</h1>
-<hr>
+<br>
 Digital Designer & Full Stuck Developer 👨‍💻 <br>
 I design and code beautifully simple things, and I love what I do.<br>
 <br><br>
